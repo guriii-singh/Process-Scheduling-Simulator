@@ -135,11 +135,11 @@ body {
 }
 
 #ProcessTable tr:nth-child(even) {
-    background-color: rgb(199, 220, 255);
+    background-color: #e3f2fd;
 }
 
 #ProcessTable tr:nth-child(odd) {
-    background-color: rgb(199, 220, 255);
+    background-color: #ffffff;
 }
 
 #ProcessTable tr:first-child {
