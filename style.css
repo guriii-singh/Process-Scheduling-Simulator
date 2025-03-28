@@ -103,6 +103,11 @@ body {
     padding-right: 15px;
     padding-left: 15px;
     background-color: aquamarine;
+    transition: background-color 0.3s ease-in-out;
+}
+
+#readyqueue td:hover {
+    background-color: #5ce1e6;
 }
 
 #ganttchart td {
