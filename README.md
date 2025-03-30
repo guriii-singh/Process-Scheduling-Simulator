@@ -34,3 +34,4 @@ This project is a web-based simulator for various CPU scheduling algorithms. It 
 ## 👨‍💻 Author
 
 Developed by [Gurnoor Singh](https://github.com/guriii-singh) 🚀
+Developed by [Mehak Suri](https://github.com/MehakSuri36) 🚀
